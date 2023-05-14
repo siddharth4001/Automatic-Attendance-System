@@ -1,0 +1,9 @@
+list of dependencies required
+
+numpy
+sci-kit
+CMake
+dlib
+face-recognition
+cvzone
+opencv-python (optional)
