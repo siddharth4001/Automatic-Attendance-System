@@ -60,6 +60,26 @@ data = {
             "year": 8,
             "last_attendance_time": "2023-05-11 00:35:10"
         }
+    "20204215":
+        {
+            "name": "Sushma",
+            "major": "cse",
+            "starting_year":2020,
+            "total_attendance":60,
+            "standing": "G",
+            "year": 8,
+            "last_attendance_time": "2023-05-11 00:40:12"
+        }
+    "20204213":
+        {
+            "name": "Surabhi",
+            "major": "cse",
+            "starting_year":2020,
+            "total_attendance":66,
+            "standing": "G",
+            "year": 8,
+            "last_attendance_time": "2023-05-11 00:35:08"
+        }
 }
 
 for key,value in data.items():
