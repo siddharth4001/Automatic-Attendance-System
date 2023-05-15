@@ -50,6 +50,16 @@ data = {
             "year": 8,
             "last_attendance_time": "2022-12-11 00:54:11"
         }
+      "20204217":
+        {
+            "name": "Taniya",
+            "major": "cse",
+            "starting_year":2020,
+            "total_attendance":56,
+            "standing": "G",
+            "year": 8,
+            "last_attendance_time": "2023-05-11 00:35:10"
+        }
 }
 
 for key,value in data.items():
