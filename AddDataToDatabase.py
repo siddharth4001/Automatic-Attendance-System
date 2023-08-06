@@ -12,7 +12,7 @@ ref = db.reference('Students')
 data = {
     "321654":
         {
-            "name": "Randi",
+            "name": "Ranvir",
             "major": "cse",
             "starting_year":2017,
             "total_attendance":8,
@@ -22,7 +22,7 @@ data = {
         },
     "852741":
         {
-            "name": "Randi2",
+            "name": "Rishab",
             "major": "ece",
             "starting_year":2011,
             "total_attendance":75,
@@ -32,7 +32,7 @@ data = {
         },
     "963852":
         {
-            "name": "Randi3",
+            "name": "Ravindra",
             "major": "mba",
             "starting_year":2019,
             "total_attendance":9,
